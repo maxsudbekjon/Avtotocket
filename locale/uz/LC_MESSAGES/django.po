@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-21 16:46+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\apps\models.py:12
+msgid "Name"
+msgstr "Nomi"
+
+#: .\apps\models.py:21
+msgid "Fixed"
+msgstr "Tugallangan"
+
+#: .\apps\models.py:22
+msgid "Percent"
+msgstr "Foiz"
+
+#: .\apps\models.py:25
+msgid "Code"
+msgstr "Kod"
+
+#: .\apps\models.py:30
+#, fuzzy
+#| msgid "Valid_From"
+msgid "Valid From"
+msgstr "boshlanish vaqti"
+
+#: .\apps\models.py:31
+#, fuzzy
+#| msgid "Valid_To"
+msgid "Valid To"
+msgstr "Tugash vaqti"
+
+#: .\apps\models.py:32
+msgid "Discount_type"
+msgstr "Chegirma narx"
+
+#: .\root\settings.py:182
+msgid "English"
+msgstr "Ingliz"
+
+#: .\root\settings.py:183
+msgid "Uzbek"
+msgstr "O'zbek"
+
+#: .\root\settings.py:184
+msgid "Russian"
+msgstr ""

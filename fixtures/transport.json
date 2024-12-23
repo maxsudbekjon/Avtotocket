@@ -1,0 +1,44 @@
+[
+  {
+    "model": "app_name.transport",
+    "pk": 1,
+    "fields": {
+      "type": "Avtobus"
+    }
+  },
+  {
+    "model": "app_name.transport",
+    "pk": 2,
+    "fields": {
+      "type": "Taksi"
+    }
+  },
+  {
+    "model": "app_name.transport",
+    "pk": 3,
+    "fields": {
+      "type": "Poezd"
+    }
+  },
+  {
+    "model": "app_name.transport",
+    "pk": 4,
+    "fields": {
+      "type": "Samolyot"
+    }
+  },
+  {
+    "model": "app_name.transport",
+    "pk": 5,
+    "fields": {
+      "type": "Velosiped"
+    }
+  },
+  {
+    "model": "app_name.transport",
+    "pk": 6,
+    "fields": {
+      "type": "Elektr skuter"
+    }
+  }
+]

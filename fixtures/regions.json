@@ -1,0 +1,93 @@
+[
+  {
+    "model": "app_name.region",
+    "pk": 1,
+    "fields": {
+      "name": "Toshkent"
+    }
+  },
+  {
+    "model": "app_name.region",
+    "pk": 2,
+    "fields": {
+      "name": "Andijon"
+    }
+  },
+  {
+    "model": "app_name.region",
+    "pk": 3,
+    "fields": {
+      "name": "Buxoro"
+    }
+  },
+  {
+    "model": "app_name.region",
+    "pk": 4,
+    "fields": {
+      "name": "Fargʻona"
+    }
+  },
+  {
+    "model": "app_name.region",
+    "pk": 5,
+    "fields": {
+      "name": "Jizzax"
+    }
+  },
+  {
+    "model": "app_name.region",
+    "pk": 6,
+    "fields": {
+      "name": "Namangan"
+    }
+  },
+  {
+    "model": "app_name.region",
+    "pk": 7,
+    "fields": {
+      "name": "Navoiy"
+    }
+  },
+  {
+    "model": "app_name.region",
+    "pk": 8,
+    "fields": {
+      "name": "Qashqadaryo"
+    }
+  },
+  {
+    "model": "app_name.region",
+    "pk": 9,
+    "fields": {
+      "name": "Qoraqalpogʻiston"
+    }
+  },
+  {
+    "model": "app_name.region",
+    "pk": 10,
+    "fields": {
+      "name": "Samarqand"
+    }
+  },
+  {
+    "model": "app_name.region",
+    "pk": 11,
+    "fields": {
+      "name": "Surxondaryo"
+    }
+  },
+  {
+    "model": "app_name.region",
+    "pk": 12,
+    "fields": {
+      "name": "Sirdaryo"
+    }
+  },
+  {
+    "model": "app_name.region",
+    "pk": 13,
+    "fields": {
+      "name": "Xorazm"
+    }
+  }
+]
